@@ -17,7 +17,7 @@ Below is an example aligning two sequences using TNW algorithm :
 
 You can find a usage Example of the TNW algorithm file where you have an example input dataset :
 
-<img src="imgs/original_seq.PNG">
+<img src="imgs/sample_data.PNG">
 
 and those following are the results of the TNW ALgorithm : 
 
