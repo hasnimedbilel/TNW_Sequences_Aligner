@@ -12,12 +12,13 @@ https://www.researchgate.net/publication/292331949_Temporal_Needleman-Wunsch
 
 Below is an example aligning two sequences using TNW algorithm : 
 
-PUT TWO IMAGES HERE !!!
+<img src="imgs/original_seq.PNG">
+<img src="imgs/TNW_seq.PNG">
 
 You can find a usage Example of the TNW algorithm file where you have an example input dataset :
 
-PUT THE INPUT DATA IMAGE!!!
+<img src="imgs/original_seq.PNG">
 
 and those following are the results of the TNW ALgorithm : 
 
-PUT IMAGES HERE !!!
+<img src="imgs/results.PNG">
